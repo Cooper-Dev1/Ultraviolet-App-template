@@ -1,7 +1,7 @@
 {
-  "name": "uv-app",
+  "name": "Google Classroom",
   "version": "1.0.0",
-  "description": "Ultraviolet instance",
+  "description": "Google Classroom",
   "type": "module",
   "engines": {
     "npm": ">=7.0.0",
